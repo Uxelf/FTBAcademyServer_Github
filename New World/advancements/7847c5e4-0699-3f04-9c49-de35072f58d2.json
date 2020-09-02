@@ -1,0 +1,77 @@
+{
+  "ftbacademymod:root": {
+    "criteria": {
+      "entered_school": "2020-08-28 20:41:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2020-08-28 20:41:58 +0200"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2020-08-28 20:41:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2020-08-28 20:41:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2020-08-28 20:41:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2020-08-28 20:41:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2020-08-28 20:41:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2020-08-28 20:41:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2020-08-28 20:41:59 +0200",
+      "forest_hills": "2020-08-28 20:42:08 +0200",
+      "plains": "2020-08-28 20:41:26 +0200",
+      "river": "2020-08-28 20:41:57 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2020-08-28 20:41:41 +0200"
+    },
+    "done": true
+  },
+  "ftbacademymod:graduated": {
+    "criteria": {
+      "bedrock_in_inventory": "2020-08-28 20:41:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2020-08-28 20:41:41 +0200"
+    },
+    "done": true
+  }
+}

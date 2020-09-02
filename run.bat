@@ -1,0 +1,1 @@
+java -Xmx10G -Xms1G -jar FTBserver-1.12.2-14.23.5.2846-universal.jar
